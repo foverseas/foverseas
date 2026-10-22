@@ -23,7 +23,7 @@ We design, build and ship web platforms, mobile apps and the architecture undern
 
 ## What we do
 
-|  |  |
+| Service | What that means |
 | :--- | :--- |
 | **Web development** | Showcase sites, e-commerce and complex platforms, built to perform. |
 | **Mobile development** | Native-feeling iOS and Android apps, from ideation to the stores. |
@@ -51,7 +51,9 @@ source of our own website, running in production.
 
 ### Tell us what you're building
 
-**[Start a project →](https://www.f-overseassolutions.fr/contact)**
+<a href="https://www.f-overseassolutions.fr/contact">
+  <img src="https://img.shields.io/badge/Start_a_project-00ff99?style=for-the-badge&logoColor=1c1c22&labelColor=00ff99" alt="Start a project">
+</a>
 
 <br>
 
