@@ -1,0 +1,12 @@
+Plateformes web, applications mobiles, architecture solide.
+
+F-Overseas Solutions est une agence digitale basée près de Paris. Nous concevons et développons des plateformes web, des applications mobiles iOS et Android, et les architectures logicielles qui les portent.
+
+Sur cette chaîne : des démonstrations de projets, des retours d'expérience technique, et des explications sur notre façon de travailler — cadrage à partir de vos contraintes, itérations courtes avec quelque chose qui tourne à chaque fin de cycle, et transmission d'un code que vos équipes peuvent reprendre.
+
+Nous travaillons avec des fondateurs et des équipes internes qui ont besoin d'un produit construit correctement.
+
+Technologies : TypeScript, React, Next.js, Node.js, C#, .NET, React Native, Tailwind CSS, AWS, Google Cloud.
+
+Site : f-overseassolutions.fr
+Contact : contact@f-overseassolutions.fr
