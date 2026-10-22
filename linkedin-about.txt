@@ -1,0 +1,25 @@
+Web platforms, mobile apps, solid architecture.
+
+F-Overseas Solutions is a digital agency based near Paris. We work with founders and in-house teams who need a product built properly: web platforms, mobile apps and the architecture underneath them.
+
+WHAT WE DO
+
+Web — Next.js and React applications, server-rendered and type-safe end to end. Design systems built on Tailwind CSS and accessible component primitives. Headless e-commerce and content platforms. Performance budgets, Core Web Vitals and SEO handled from day one.
+
+Mobile — Cross-platform iOS and Android apps with React Native. Offline-first data sync and background jobs. Native module integration when the platform demands it. Store submission, phased rollout and crash monitoring.
+
+Architecture — Domain mapping and migration roadmaps for legacy systems. Event-driven and service-oriented designs that match team structure. Cloud infrastructure as code, CI/CD and observability. Technical due diligence and architecture reviews.
+
+HOW WE WORK
+
+1. Frame — We start with your constraints, not our stack. A short discovery sets the scope, the risks and what success looks like in numbers.
+
+2. Build — Short iterations with something running at the end of each one. You see progress in a real environment, not in a status report.
+
+3. Hand over — Documented, tested and deployable by your team. We stay available afterwards, but you are never locked in.
+
+Senior people, short feedback loops, and code your team can own once we are gone.
+
+Stack: TypeScript, React, Next.js, Node.js, C#, .NET, React Native, Tailwind CSS, AWS, Google Cloud, Vercel.
+
+f-overseassolutions.fr · contact@f-overseassolutions.fr
