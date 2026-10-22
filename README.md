@@ -5,7 +5,7 @@
 <br>
 
 **Digital agency based near Paris.**<br>
-We design, build and ship web platforms, mobile apps and the architecture underneath them.
+We design, build and ship web platforms, mobile apps and solid architecture.
 
 <br>
 
